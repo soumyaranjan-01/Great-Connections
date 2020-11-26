@@ -1,0 +1,23 @@
+.Piedra {
+  font-family: "Piedra", cursive;
+}
+.h-customized{
+  min-height: 373px; 
+  max-height: 373px;
+}
+
+::-webkit-scrollbar {	
+  width: 8px;
+  background-color:transparent; 
+}
+
+::-webkit-scrollbar-track {
+  border-radius: 100px;
+  background-color:transparent; 
+}
+ 
+::-webkit-scrollbar-thumb {
+  background-color:transparent; 
+  border-radius: 100px;
+}
+
